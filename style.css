@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Dancing+Script:wght@600;700&family=Edu+VIC+WA+NT+Beginner:wght@600&family=Expletus+Sans:wght@600&family=Great+Vibes&family=Indie+Flower&family=Lobster&family=Lobster+Two:ital@1&family=Sansita+Swashed:wght@300&family=Source+Code+Pro:ital,wght@1,200&display=swap');
+
+body{
+    background-color: #C9BBCF;
+}
+
+
+
+.title{
+    color: rgb(75, 26, 75);
+    font-size: 40px;
+    margin-top: 35px;
+    text-align: center;
+    font-family: 'Expletus Sans', cursive;
+    
+}
+
+h2{
+    color: rgb(75, 26, 75);
+    text-align: center;
+    word-spacing: 2px;
+    margin-top: 30px;
+
+}
+
+
+p{
+    text-align: center;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+
+ul li{
+    display: inline;
+    font-size: 30px;    
+    margin: 120px;
+            
+}
+
+a{
+    text-decoration: none;
+}
+
+ol li{
+    font-size: 24px;
+    margin-left: 860px;
+    list-style-type:disc;
+}
+
+img{
+    width: 400px;
+    height: 350px;
+    display: block;
+    margin-left: 700px;
+}
